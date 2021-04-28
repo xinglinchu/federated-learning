@@ -69,7 +69,7 @@ Everything about federated learning. *Your contribution is highly valued!*
     - arXiv 201810 - [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337) 联邦迁移学习
     - ICML 2019 - [Bayesian Nonparametric Federated Learning of Neural Networks](https://arxiv.org/abs/1905.12022) 贝叶斯联邦学习
     - ICLR 2020 - [Federated Adversarial Domain Adaptation](https://arxiv.org/abs/1911.02054)  联邦对抗域适应
-    - ICLR 2021 - [TOWARDS CAUSAL FEDERATED LEARNING FOR ENHANCED ROBUSTNESS AND PRIVACY] (https://arxiv.org/pdf/2104.06557.pdf) (Federated Learning + Causal Learning)
+    - ICLR 2021 - [TOWARDS CAUSAL FEDERATED LEARNING FOR ENHANCED ROBUSTNESS AND PRIVACY](https://arxiv.org/pdf/2104.06557.pdf) (Federated Learning + Causal Learning)
     - CyberC 2019 - [Record and Reward Federated Learning Contributions with Blockchain](https://mblocklab.com/RecordandReward.pdf) (Federated Learning + Blockchain)
     
 - 高效联邦学习
